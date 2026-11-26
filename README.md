@@ -1,10 +1,13 @@
-
 <div align="center">
 <img width="90" alt="boardcraft" src="https://github.com/user-attachments/assets/308d4939-f320-4e65-bf13-92e400ec2e6c" />
-  
+
 # BoardCraft
 
 **An infinite, real-time collaborative digital whiteboard for sketching, diagramming, brainstorming, and presenting.**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_BoardCraft-2563EB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://your-live-demo-url.com)
+[![Download Windows .exe](https://img.shields.io/badge/Download-Windows_.exe-059669?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://github.com/khdxsohee/boardcraft/releases/latest/download/BoardCraft-Setup.exe)
+[![GitHub Release](https://img.shields.io/github/v/release/khdxsohee/boardcraft?style=for-the-badge&color=072957&label=Latest%20Release)](https://github.com/khdxsohee/boardcraft/releases)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-khdxsohee%2Fboardcraft-181717?style=for-the-badge&logo=github)](https://github.com/khdxsohee/boardcraft)
 [![GitHub Stars](https://img.shields.io/github/stars/khdxsohee/boardcraft?style=for-the-badge&color=2563EB)](https://github.com/khdxsohee/boardcraft/stargazers)
@@ -17,20 +20,23 @@
 [![Vite](https://img.shields.io/badge/Vite-8.3-646CFF?style=flat-square&logo=vite&logoColor=FFFFFF)](https://vite.dev/)
 [![Express](https://img.shields.io/badge/Express-4.21-000000?style=flat-square&logo=express&logoColor=FFFFFF)](https://expressjs.com/)
 [![WebSockets](https://img.shields.io/badge/WebSockets-ws-2563EB?style=flat-square&logo=socketdotio&logoColor=FFFFFF)](https://github.com/websockets/ws)
+[![PWA Offline](https://img.shields.io/badge/PWA-Offline_Ready-072957?style=flat-square&logo=pwa&logoColor=FFFFFF)](#getting-started)
 [![HTML5 Canvas](https://img.shields.io/badge/HTML5-Canvas_2D-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF)](#project-architecture)
 
-[Screenshots](#screenshots) • [Features](#key-features) • [Tech Stack](#tech-stack) • [Getting Started](#getting-started) • [Collaboration](#real-time-collaboration) • [Shortcuts](#keyboard-shortcuts)
+[Live Demo](#live-demo) • [Download](#download) • [Screenshots](#screenshots) • [Features](#key-features) • [Tech Stack](#tech-stack) • [Getting Started](#getting-started) • [Collaboration](#real-time-collaboration) • [Shortcuts](#keyboard-shortcuts)
 
 </div>
 
 ---
 
-**BoardCraft** is a full-featured, real-time collaborative digital whiteboard application built with React, TypeScript, HTML5 Canvas, Tailwind CSS, Express, and WebSockets. It provides an infinite high-DPI canvas for sketching, diagramming, brainstorming, wireframing, and presenting, complete with instant local auto-saving, starter templates, vector/raster/JSON exports, and zero-signup live multiplayer rooms.
+**BoardCraft** is a full-featured, real-time collaborative digital whiteboard application built with React, TypeScript, HTML5 Canvas, Tailwind CSS, Express, and WebSockets. It provides an infinite high-DPI canvas for sketching, diagramming, brainstorming, wireframing, and presenting—complete with instant local auto-saving, starter templates, vector/raster/JSON exports, and zero-signup live multiplayer rooms.
 
 ---
 
 ## Table of Contents
 
+- [Live Demo](#live-demo)
+- [Download](#download)
 - [Screenshots](#screenshots)
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
@@ -62,9 +68,31 @@
 
 ---
 
+## Live Demo
+
+Try **BoardCraft** instantly in your browser—complete with infinite canvas drawing, templates, export tools, live collaboration, and offline PWA support:
+
+[![Launch Live Demo](https://img.shields.io/badge/▶_Launch_Live_Demo-Open_BoardCraft-2563EB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://your-live-demo-url.com)
+
+> *Replace `https://your-live-demo-url.com` above (and in the top hero badge) with your deployed live URL.*
+
+---
+
+## Download
+
+Download the standalone Windows desktop installer (`.exe`) directly from GitHub Releases—clicking the button below starts the download immediately:
+
+[![Download BoardCraft .exe](https://img.shields.io/badge/⬇_Download_BoardCraft-Windows_.exe-059669?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://github.com/khdxsohee/boardcraft/releases/latest/download/BoardCraft-Setup.exe)
+[![All Releases](https://img.shields.io/badge/View_All_Releases-GitHub_Releases-181717?style=for-the-badge&logo=github)](https://github.com/khdxsohee/boardcraft/releases)
+
+> *Make sure your uploaded release asset filename matches `BoardCraft-Setup.exe` (or replace the URL above with the direct `.exe` asset link from your GitHub Release).*
+
+---
+
 ## Screenshots
 
 <img width="1896" height="830" alt="image" src="https://github.com/user-attachments/assets/30efc64f-0f7f-4f98-8a0c-d95e94938fa4" />
+
 
 ---
 
