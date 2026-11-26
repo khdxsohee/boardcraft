@@ -88,7 +88,8 @@ Download the standalone Windows desktop installer (`.exe`) directly from GitHub 
 
 ## Screenshots
 
-<img width="1896" height="830" alt="image" src="https://github.com/user-attachments/assets/30efc64f-0f7f-4f98-8a0c-d95e94938fa4" />
+<img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/c2011d36-6ecd-4920-acb8-e4d08e7a966c" />
+
 
 
 ---
