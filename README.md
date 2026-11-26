@@ -5,7 +5,7 @@
 
 **An infinite, real-time collaborative digital whiteboard for sketching, diagramming, brainstorming, and presenting.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_BoardCraft-2563EB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://your-live-demo-url.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_BoardCraft-2563EB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://boardcraftpro.web.app/)
 [![Download Windows .exe](https://img.shields.io/badge/Download-Windows_.exe-059669?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://github.com/khdxsohee/boardcraft/releases/latest/download/BoardCraft-Setup.exe)
 [![GitHub Release](https://img.shields.io/github/v/release/khdxsohee/boardcraft?style=for-the-badge&color=072957&label=Latest%20Release)](https://github.com/khdxsohee/boardcraft/releases)
 
@@ -23,7 +23,7 @@
 [![PWA Offline](https://img.shields.io/badge/PWA-Offline_Ready-072957?style=flat-square&logo=pwa&logoColor=FFFFFF)](#getting-started)
 [![HTML5 Canvas](https://img.shields.io/badge/HTML5-Canvas_2D-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF)](#project-architecture)
 
-[Live Demo](#live-demo) • [Download](#download) • [Screenshots](#screenshots) • [Features](#key-features) • [Tech Stack](#tech-stack) • [Getting Started](#getting-started) • [Collaboration](#real-time-collaboration) • [Shortcuts](#keyboard-shortcuts)
+[Live Demo](https://boardcraftpro.web.app/) • [Download](#download) • [Screenshots](#screenshots) • [Features](#key-features) • [Tech Stack](#tech-stack) • [Getting Started](#getting-started) • [Collaboration](#real-time-collaboration) • [Shortcuts](#keyboard-shortcuts)
 
 </div>
 
@@ -72,9 +72,8 @@
 
 Try **BoardCraft** instantly in your browser—complete with infinite canvas drawing, templates, export tools, live collaboration, and offline PWA support:
 
-[![Launch Live Demo](https://img.shields.io/badge/▶_Launch_Live_Demo-Open_BoardCraft-2563EB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://your-live-demo-url.com)
+[![Launch Live Demo](https://img.shields.io/badge/▶_Launch_Live_Demo-Open_BoardCraft-2563EB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://boardcraftpro.web.app/)
 
-> *Replace `https://your-live-demo-url.com` above (and in the top hero badge) with your deployed live URL.*
 
 ---
 
@@ -84,8 +83,6 @@ Download the standalone Windows desktop installer (`.exe`) directly from GitHub 
 
 [![Download BoardCraft .exe](https://img.shields.io/badge/⬇_Download_BoardCraft-Windows_.exe-059669?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://github.com/khdxsohee/boardcraft/releases/latest/download/BoardCraft-Setup.exe)
 [![All Releases](https://img.shields.io/badge/View_All_Releases-GitHub_Releases-181717?style=for-the-badge&logo=github)](https://github.com/khdxsohee/boardcraft/releases)
-
-> *Make sure your uploaded release asset filename matches `BoardCraft-Setup.exe` (or replace the URL above with the direct `.exe` asset link from your GitHub Release).*
 
 ---
 
