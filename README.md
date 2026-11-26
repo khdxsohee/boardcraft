@@ -1,5 +1,7 @@
-<div align="center">
 
+<div align="center">
+<img width="90" alt="boardcraft" src="https://github.com/user-attachments/assets/308d4939-f320-4e65-bf13-92e400ec2e6c" />
+  
 # BoardCraft
 
 **An infinite, real-time collaborative digital whiteboard for sketching, diagramming, brainstorming, and presenting.**
