@@ -1,12 +1,12 @@
 <div align="center">
-<img width="90" alt="boardcraft" src="https://github.com/user-attachments/assets/308d4939-f320-4e65-bf13-92e400ec2e6c" />
+<img width="90" alt="boardcraft" src="https://github.com/user-attachments/assets/945a7468-2c94-40b6-ad5a-a90a0ca409e8" />
 
 # BoardCraft
 
 **An infinite, real-time collaborative digital whiteboard for sketching, diagramming, brainstorming, and presenting.**
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open_BoardCraft-2563EB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://boardcraftpro.web.app/)
-[![Download Windows .exe](https://img.shields.io/badge/Download-Windows_.exe-059669?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://github.com/khdxsohee/boardcraft/releases/latest/download/BoardCraft-Setup.exe)
+[![Download Windows .exe](https://img.shields.io/badge/Download-Windows_.exe-059669?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://github.com/khdxsohee/boardcraft/releases/latest/download/BoardCraft-Setup.msi)
 [![GitHub Release](https://img.shields.io/github/v/release/khdxsohee/boardcraft?style=for-the-badge&color=072957&label=Latest%20Release)](https://github.com/khdxsohee/boardcraft/releases)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-khdxsohee%2Fboardcraft-181717?style=for-the-badge&logo=github)](https://github.com/khdxsohee/boardcraft)
@@ -23,7 +23,7 @@
 [![PWA Offline](https://img.shields.io/badge/PWA-Offline_Ready-072957?style=flat-square&logo=pwa&logoColor=FFFFFF)](#getting-started)
 [![HTML5 Canvas](https://img.shields.io/badge/HTML5-Canvas_2D-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF)](#project-architecture)
 
-[Live Demo](https://boardcraftpro.web.app/) • [Download](#download) • [Screenshots](#screenshots) • [Features](#key-features) • [Tech Stack](#tech-stack) • [Getting Started](#getting-started) • [Collaboration](#real-time-collaboration) • [Shortcuts](#keyboard-shortcuts)
+[Live Demo](https://boardcraftpro.web.app/) • [Download](https://github.com/khdxsohee/boardcraft/releases/latest/download/BoardCraft-Setup.msi) • [Screenshots](#screenshots) • [Features](#key-features) • [Tech Stack](#tech-stack) • [Getting Started](#getting-started) • [Collaboration](#real-time-collaboration) • [Shortcuts](#keyboard-shortcuts)
 
 </div>
 
@@ -35,8 +35,8 @@
 
 ## Table of Contents
 
-- [Live Demo](#live-demo)
-- [Download](#download)
+- [Live Demo](https://boardcraftpro.web.app/)
+- [Download](https://github.com/khdxsohee/boardcraft/releases/latest/download/BoardCraft-Setup.msi)
 - [Screenshots](#screenshots)
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
@@ -81,7 +81,7 @@ Try **BoardCraft** instantly in your browser—complete with infinite canvas dra
 
 Download the standalone Windows desktop installer (`.exe`) directly from GitHub Releases—clicking the button below starts the download immediately:
 
-[![Download BoardCraft .exe](https://img.shields.io/badge/⬇_Download_BoardCraft-Windows_.exe-059669?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://github.com/khdxsohee/boardcraft/releases/latest/download/BoardCraft-Setup.exe)
+[![Download BoardCraft .exe](https://img.shields.io/badge/⬇_Download_BoardCraft-Windows_.exe-059669?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://github.com/khdxsohee/boardcraft/releases/latest/download/BoardCraft-Setup.msi)
 [![All Releases](https://img.shields.io/badge/View_All_Releases-GitHub_Releases-181717?style=for-the-badge&logo=github)](https://github.com/khdxsohee/boardcraft/releases)
 
 ---
