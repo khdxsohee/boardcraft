@@ -17,7 +17,7 @@
 [![WebSockets](https://img.shields.io/badge/WebSockets-ws-2563EB?style=flat-square&logo=socketdotio&logoColor=FFFFFF)](https://github.com/websockets/ws)
 [![HTML5 Canvas](https://img.shields.io/badge/HTML5-Canvas_2D-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF)](#project-architecture)
 
-[Features](#key-features) • [Tech Stack](#tech-stack) • [Getting Started](#getting-started) • [Collaboration](#real-time-collaboration) • [Shortcuts](#keyboard-shortcuts)
+[Screenshots](#screenshots) • [Features](#key-features) • [Tech Stack](#tech-stack) • [Getting Started](#getting-started) • [Collaboration](#real-time-collaboration) • [Shortcuts](#keyboard-shortcuts)
 
 </div>
 
@@ -29,6 +29,7 @@
 
 ## Table of Contents
 
+- [Screenshots](#screenshots)
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
 - [Project Architecture](#project-architecture)
@@ -56,6 +57,12 @@
 - [API Endpoints](#api-endpoints)
 - [Known Scope & Limitations](#known-scope--limitations)
 - [Repository & Contributing](#repository--contributing)
+
+---
+
+## Screenshots
+
+<img width="1896" height="830" alt="image" src="https://github.com/user-attachments/assets/30efc64f-0f7f-4f98-8a0c-d95e94938fa4" />
 
 ---
 
