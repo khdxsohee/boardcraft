@@ -1,0 +1,8 @@
+{
+  "name": "Remix BoardCraft",
+  "description": "A full-featured online digital whiteboard with infinite canvas, freehand drawing, shapes, connectors, sticky notes, frames, templates, export, and real-time collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
